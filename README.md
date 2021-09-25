@@ -10,6 +10,7 @@ Quickly setup your next project! This boilerplate includes:
 - hardhat-tracer
 - mocha
 - chai
+- tenderly
 
 ## Setup
 
