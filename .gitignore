@@ -11,6 +11,9 @@ artifacts
 cache
 typechain
 
+# Foundry
+out
+
 # Graph protocol
 generated
 build

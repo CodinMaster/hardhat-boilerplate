@@ -16,7 +16,7 @@ Quickly setup your next project! This boilerplate includes:
 
 `yarn install`
 
-## Scripts
+## Scripts (Hardhat)
 
 1. Compile contracts and create their Typescript bindings.
 
@@ -38,3 +38,8 @@ Quickly setup your next project! This boilerplate includes:
 5. Verify deployed contracts on Etherscan (Polygonscan)
 
    `yarn verify:polygon`
+
+## Foundry
+
+1. Run tests<br>
+   `forge test --hh`
